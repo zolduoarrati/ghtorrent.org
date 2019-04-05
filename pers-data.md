@@ -20,15 +20,15 @@ to the data.
 
 {%highlight html%}
 <dl>
-  <dt></dt>
-  <dd> Job Title
-  <a href="email">email</a></dd>
+  <dt>Researcher</dt>
+  <dd> Elijah Zolduoarrati, Postgraduate student. University of Otago,
+  <a href="elijah.zolduoarrati@postgrad.otago.ac.nz">elijah.zolduoarrati@postgrad.otago.ac.nz</a></dd>
 
   <dt>Date of request</dt>
-  <dd>The actual date</dd>
+  <dd>April 5, 2019</dd>
 
   <dt>Why do you need the personal data?</dt>
-  <dd> Provide an explanation </dd>
+  <dd> The focus of this research is to investigate diversity in GitHub repositories</dd>
 
 </dl>
 {%endhighlight%}
