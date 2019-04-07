@@ -19,16 +19,17 @@ When your pull request has been accepted, we will mail you the link
 to the data.
 
 {%highlight html%}
+#### Elijah Zolduoarrati
 <dl>
-  <dt></dt>
-  <dd> Job Title
-  <a href="email">email</a></dd>
+  <dt>Researcher</dt>
+  <dd>Elijah Zolduoarrati, MSc. University of Otago,
+  <a href="elijah.zolduoarrati@postgrad.otago.ac.nz">elijah.zolduoarrati@postgrad.otago.ac.nz</a> </dd>
 
   <dt>Date of request</dt>
-  <dd>The actual date</dd>
+  <dd>April 7, 2019</dd>
 
-  <dt>Why do you need the personal data?</dt>
-  <dd> Provide an explanation </dd>
+  <dt>Intended use</dt>
+  <dd>Research regarding diversity in Github.</dd>
 
 </dl>
 {%endhighlight%}
